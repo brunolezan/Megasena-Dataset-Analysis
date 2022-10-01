@@ -1,5 +1,0 @@
-jogo para concurso 2525, baseado nos concursos até 2524:
-[42, 11, 30, 34, 35, 29, 18] 20 anos
-[9, 30, 42, 11, 35, 29, 49] 3 anos
-[56, 46, 11, 8, 49, 53, 19] 1 ano
-[53, 19, 54, 60, 8, 38, 44] 10 últimos jogos (não joguei)
